@@ -9,7 +9,7 @@
   6. Form Print Preview
   7. Bisa Cetak Struk
   
-=> Untuk lebih jelasnya bisa lihat di folter Screenshoot
+=> Untuk lebih jelasnya bisa lihat di folder Screenshoot
 
 # N O T E
 Jika ingin  reshare cantumkan AUTHOR
