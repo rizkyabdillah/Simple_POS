@@ -1,3 +1,4 @@
+# Simple POS (JAVA NETBEANS)
 ==========>>>>>>>> Simple POS <<<<<<<<==========
 
 => Fitur
